@@ -1,6 +1,6 @@
 package traverse
 
-import "github.com/structures-algorithms/structures/btree"
+import "github.com/kemolife/structures-algorithms/structures/btree"
 
 func traverseInOrder[T comparable](node *btree.Node[T], list *[]T) *[]T {
 	if node.GetLeft() != nil {

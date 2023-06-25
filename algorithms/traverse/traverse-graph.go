@@ -1,7 +1,7 @@
 package traverse
 
 import (
-	"github.com/structures-algorithms/structures/graph"
+	"github.com/kemolife/structures-algorithms/structures/graph"
 	"golang.org/x/exp/slices"
 	"math"
 )

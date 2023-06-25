@@ -2,7 +2,7 @@ package leetcode
 
 import (
 	"fmt"
-	linked_list "github.com/structures-algorithms/structures/linked-list"
+	linked_list "github.com/kemolife/structures-algorithms/structures/linked-list"
 	"strconv"
 	"strings"
 )
